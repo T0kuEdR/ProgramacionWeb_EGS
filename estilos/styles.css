@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+h1 {
+    color: rgba(4, 7, 206, 0.863);
+    border: 2px solid rgb(177, 14, 155);
+}
+div {
+    background-color: antiquewhite;
+    border : 10px solid coral;
+
+}
+.parrafoRojo{
+    border: 3px solid color(srgb rgb(138, 41, 41) rgb(56, 116, 56) rgb(13, 13, 122));
+    color: rgb(199, 113, 8);
+    padding-bottom: 100px;
+}
+.titulo3{
+    color: red;
+    border: 10px solid cadetblue;
+}
